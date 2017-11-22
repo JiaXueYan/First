@@ -1,5 +1,6 @@
-.main{
-    color: #fff;
+
+.content.a{
+    background-color: #Fff;
 }
 .photo.one {
     background: #fff url("../images/about/bg1.jpg") center 90% no-repeat;
